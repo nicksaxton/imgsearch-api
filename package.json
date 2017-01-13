@@ -9,6 +9,8 @@
   "author": "Nick Saxton",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "googleapis": "^16.1.0",
+    "mongodb": "^2.2.21"
   }
 }
